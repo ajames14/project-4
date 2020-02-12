@@ -79,8 +79,6 @@ We then worked on one API each, both with their own challenges and hurdles (see 
 
 When we were comfortable the back-end was robust, we began building our front-end using React. Again we split up the different components but worked collaboratively on design. 
 
-### Hurdles & Wins (could delete this as have put at the end, and then this is just part of build)
-
 **Swap Request Functionality:** 
 
 The logic of the clothes swap requests proved to be challenging. When a user requests a swap, they also choose an item from their "owned items" list that they are willing to exchange. All swap requests for an item appear on the owners profile. When a swap request is received, the owner gets to chose which they would like to accept by clicking "Approve Swap" on the desired item. A confirmation email is then sent to both users confirming the swap and allowing them to arrange the swap. Both items are then marked as "Swapped".
@@ -194,10 +192,8 @@ For the homepage we used a number of GIFs and created our theme of pastel and wa
 #### Challenges 
 - Time: as mentioned, given mroe time, we would have like to developed on our design across the app.
 - Data Modelling: distinguishing the entity relationships was challenging as we cerated a complex concept, however, it was a good learning process as we had to take time to really think it through. 
-- Swap Requests: (may want to add more here)
+- Swap Requests: See above.
 
-
-##### Featured piece of code 3: Controller Functions
 
 ### Future Features 
 
