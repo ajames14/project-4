@@ -67,8 +67,6 @@ Green Garms is an app combining two main functions:
 
 We started by creating a wireframe for our app and working out the essential features of our MVP. We decided the core features were the Clothes Swap and Brand Guide. Additional features included an Events Calander for eco-fashion events and a sunstainable fashion news feed. These would have been great to include given more time. 
 
-(... Add wireframe pictures ...)
-
 Once we'd worked out the user story, we determined our Entity Relationship Diagrams. Given we essentially had two seperate APIs with relatively complicated functionality, we made sure to thoroughly plan out our models and relationships between them. etting these right from the start was crucial as we knew it would save us time further into the project.
 
 ### Build
